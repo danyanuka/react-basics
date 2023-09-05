@@ -1,0 +1,11 @@
+.animalTh {
+  border: 2px solid rgb(118, 2, 2);
+}
+
+.animalTd {
+  border: 2px solid red;
+}
+
+.animalsTitle {
+  color: brown;
+}
